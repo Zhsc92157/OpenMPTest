@@ -1,0 +1,19 @@
+﻿  DSsimulation.cpp
+D:\VSProject\OpenMP_test\OpenMP_test\OpenMP_test\DSsimulation.cpp(369,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\VSProject\OpenMP_test\OpenMP_test\OpenMP_test\DSsimulation.cpp(375,65): warning C4018: “<”: 有符号/无符号不匹配
+D:\VSProject\OpenMP_test\OpenMP_test\OpenMP_test\DSsimulation.cpp(467,42): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\VSProject\OpenMP_test\OpenMP_test\OpenMP_test\DSsimulation.cpp(490,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\VSProject\OpenMP_test\OpenMP_test\OpenMP_test\DSsimulation.cpp(564,38): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\VSProject\OpenMP_test\OpenMP_test\OpenMP_test\DSsimulation.cpp(619,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\VSProject\OpenMP_test\OpenMP_test\OpenMP_test\DSsimulation.cpp(621,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\VSProject\OpenMP_test\OpenMP_test\OpenMP_test\DSsimulation.cpp(621,55): warning C4018: “<”: 有符号/无符号不匹配
+D:\VSProject\OpenMP_test\OpenMP_test\OpenMP_test\DSsimulation.cpp(621,91): warning C4018: “<”: 有符号/无符号不匹配
+D:\VSProject\OpenMP_test\OpenMP_test\OpenMP_test\DSsimulation.cpp(783,13): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\VSProject\OpenMP_test\OpenMP_test\OpenMP_test\DSsimulation.cpp(790,64): warning C4018: “<”: 有符号/无符号不匹配
+D:\VSProject\OpenMP_test\OpenMP_test\OpenMP_test\DSsimulation.cpp(808,77): warning C4018: “<”: 有符号/无符号不匹配
+D:\VSProject\OpenMP_test\OpenMP_test\OpenMP_test\DSsimulation.cpp(827,77): warning C4018: “<”: 有符号/无符号不匹配
+D:\VSProject\OpenMP_test\OpenMP_test\OpenMP_test\DSsimulation.cpp(846,77): warning C4018: “<”: 有符号/无符号不匹配
+D:\VSProject\OpenMP_test\OpenMP_test\OpenMP_test\DSsimulation.cpp(865,77): warning C4018: “<”: 有符号/无符号不匹配
+D:\VSProject\OpenMP_test\OpenMP_test\OpenMP_test\DSsimulation.cpp(884,77): warning C4018: “<”: 有符号/无符号不匹配
+D:\VSProject\OpenMP_test\OpenMP_test\OpenMP_test\DSsimulation.cpp(903,77): warning C4018: “<”: 有符号/无符号不匹配
+  OpenMP_test.vcxproj -> D:\VSProject\OpenMP_test\OpenMP_test\Debug\OpenMP_test.exe
